@@ -1,1 +1,1 @@
-Assignments for CSC384
+Introduction to AI
